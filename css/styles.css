@@ -777,20 +777,18 @@ transition: border-color 300ms linear;
  pointer-events: auto;
   }
   .check-text{
-    color: #8E8F99;
+  color: #8E8F99;
    font-family: Roboto;
-    font-size: 12px;
-    line-height: 1.17;
-    letter-spacing: 0.04em;
-  
+   font-size: 12px;
+   line-height: 1.17;
+   letter-spacing: 0.04em;
    align-items: center;
   }
+
 .check-text a {
   color:#4D5AE5;
   text-decoration: underline;
-
 }
-
   
 .modal-privacy-span{
   height: 16px;
