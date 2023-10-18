@@ -694,10 +694,11 @@ padding-right: 24px;
   margin-bottom: 16px;
   text-align: center;
   }
-  .modal-field{
-    margin-bottom: 8px;
-    
-  }
+
+.modal-field{
+ margin-bottom: 8px;  
+}
+
 .modal-input{
   width: 100%;
   height: 40px;
