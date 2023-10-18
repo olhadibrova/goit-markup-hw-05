@@ -703,7 +703,7 @@ box-shadow:0px 1px 1px rgba(0, 0, 0, 0.14),
   }
 
 .modal-field{
- margin-bottom: 16px;  
+ margin-bottom: 8px;  
 }
 .field-container{
   margin-bottom: 24px;
@@ -762,8 +762,7 @@ transition: border-color 300ms linear;
     background-color: transparent;
     outline: transparent;
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-    padding-top: 8px;
-    padding-left: 16px;
+    padding: 8px 16px;
     resize: none;
   }
     .modal-text:focus{
