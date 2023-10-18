@@ -683,8 +683,8 @@ box-shadow:0px 1px 1px rgba(0, 0, 0, 0.14),
   fill: #ffffff;
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.modal-btn:hover{
-  fill: #ffffff;
+.modal-btn:hover {
+fill: #ffffff;
 }
 
 .modal-btn-icon{
@@ -791,9 +791,9 @@ transition: border-color 300ms linear;
 
 }
 .check-text span {
+  display: inline-flex;
   align-items: center;
   justify-content: center;
-  display: inline-flex;
   width: 16px;
   height: 16px;
   margin-right: 8px;
@@ -802,6 +802,11 @@ transition: border-color 300ms linear;
   fill: transparent;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), border 250ms cubic-bezier(0.4, 0, 0.2, 1), fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
   }
+    .check-text-span{
+ display: inline-flex;
+  align-items: center;
+  justify-content: center;
+    }
   
 .modal-privacy-link{
   margin-left: 6px;
